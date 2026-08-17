@@ -105,6 +105,7 @@ The final Power BI report consists of four analytical views covering performance
 
 ## Repository Structure
 
+```text
 Thematic_Investing_Analysis/
 ├── Data/       # Analytical datasets and exported results
 ├── Images/     # Power BI dashboard screenshots
@@ -112,7 +113,7 @@ Thematic_Investing_Analysis/
 ├── Python/     # Python analysis workflow
 ├── SQL/        # SQLite database and SQL analysis script
 └── README.md   # Project documentation
-
+```
 
 ## About Me
 
