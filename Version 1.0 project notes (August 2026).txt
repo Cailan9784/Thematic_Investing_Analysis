@@ -1,0 +1,21 @@
+Version 1.0 (August 2026)
+
+Features:
+- Downloaded historical prices
+- Constructed thematic portfolios
+- Calculated cumulative returns
+- Annualized return
+- Annualized volatility
+- Sharpe ratio
+- Maximum drawdown
+- Fixed-composition analysis
+- Correlation matrix
+- Growth of $1 chart
+- Rolling volatility chart
+- Risk vs. Return scatter plot
+
+Known limitations:
+- Daily equal-weight methodology
+- No transaction costs
+- No monthly rebalancing
+- No factor attribution
